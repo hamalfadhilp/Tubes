@@ -1,2 +1,3 @@
-# Kotlin-Tebak_Warna
- Game Tebak Warna ini dibuat untuk melatih otak kanan dan otak kiri
+# Anggota
+105220028 - Naufal Fadhil Rikas Hamal Pratama
+105220043 - Estya Malika
